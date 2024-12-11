@@ -1,0 +1,107 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "WHT-UI 组件库"
+			}
+		},
+		{
+			"path": "pages/demo/button/index",
+			"style": {
+				"navigationBarTitleText": "Button 按钮"
+			}
+		},
+		{
+			"path": "pages/demo/checkbox/index",
+			"style": {
+				"navigationBarTitleText": "Checkbox 复选框"
+			}
+		},
+		{
+			"path": "pages/demo/datetime-picker/index",
+			"style": {
+				"navigationBarTitleText": "DatetimePicker 时间选择器"
+			}
+		},
+		{
+			"path": "pages/demo/img-upload/index",
+			"style": {
+				"navigationBarTitleText": "ImgUpload 图片上传"
+			}
+		},
+		{
+			"path": "pages/demo/input/index",
+			"style": {
+				"navigationBarTitleText": "Input 输入框"
+			}
+		},
+		{
+			"path": "pages/demo/lottery/index",
+			"style": {
+				"navigationBarTitleText": "Lottery 抽奖"
+			}
+		},
+		{
+			"path": "pages/demo/notice-bar/index",
+			"style": {
+				"navigationBarTitleText": "NoticeBar 通知栏"
+			}
+		},
+		{
+			"path": "pages/demo/picker/index",
+			"style": {
+				"navigationBarTitleText": "Picker 选择器"
+			}
+		},
+		{
+			"path": "pages/demo/popup/index",
+			"style": {
+				"navigationBarTitleText": "Popup 弹出层"
+			}
+		},
+		{
+			"path": "pages/demo/radio/index",
+			"style": {
+				"navigationBarTitleText": "Radio 单选框"
+			}
+		},
+		{
+			"path": "pages/demo/rate/index",
+			"style": {
+				"navigationBarTitleText": "Rate 评分"
+			}
+		},
+		{
+			"path": "pages/demo/search/index",
+			"style": {
+				"navigationBarTitleText": "Search 搜索"
+			}
+		},
+		{
+			"path": "pages/demo/select/index",
+			"style": {
+				"navigationBarTitleText": "Select 选择器"
+			}
+		},
+		{
+			"path": "pages/demo/tabbar/index",
+			"style": {
+				"navigationBarTitleText": "Tabbar 标签栏"
+			}
+		},
+		{
+			"path": "pages/demo/tabs/index",
+			"style": {
+				"navigationBarTitleText": "Tabs 标签页"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "WHT-UI",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

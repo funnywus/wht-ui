@@ -1,0 +1,88 @@
+{
+	"id": "wht-ui",
+	"displayName": "WHT UI 轻量优雅的移动端组件库",
+	"version": "1.0.0",
+	"description": "一个基于 uni-app 的轻量级移动端组件库，提供 15+ 常用组件，支持 H5、微信小程序、App。优雅的设计，丰富的功能，简单易用。",
+	"keywords": [
+        "wht-ui",
+        "ui组件库",
+        "组件库",
+        "h5",
+        "微信小程序"
+    ],
+	"repository": "https://gitee.com/funnywuss/wht-ui.git",
+	"license": "MIT",
+	"engines": {
+		"HBuilderX": "^3.1.0"
+	},
+	"dcloudext": {
+		"type": "component-vue",
+		"sale": {
+			"regular": {
+				"price": "0.00"
+			},
+			"sourcecode": {
+				"price": "0.00"
+			}
+		},
+		"contact": {
+			"qq": ""
+		},
+		"declaration": {
+			"ads": "无",
+			"data": "插件不采集任何数据",
+			"permissions": "无"
+		},
+		"npmurl": ""
+	},
+	"uni_modules": {
+		"dependencies": ["uni-icons"],
+		"encrypt": [],
+		"platforms": {
+			"cloud": {
+				"tcb": "y",
+				"aliyun": "y",
+				"alipay": "y"
+			},
+			"client": {
+				"Vue": {
+					"vue2": "y",
+					"vue3": "y"
+				},
+				"App": {
+                    "app-vue": "y",
+                    "app-nvue": "n",
+                    "app-harmony": "u",
+                    "app-uvue": "u"
+                },
+				"H5-mobile": {
+					"Safari": "y",
+					"Android Browser": "y",
+					"微信浏览器(Android)": "y",
+					"QQ浏览器(Android)": "y"
+				},
+				"H5-pc": {
+					"Chrome": "y",
+					"Firefox": "y",
+					"Safari": "y",
+					"Edge": "y"
+				},
+				"小程序": {
+					"微信": "y",
+					"阿里": "n",
+					"百度": "n",
+					"字节跳动": "n",
+					"QQ": "n",
+					"钉钉": "n",
+					"快手": "n",
+					"飞书": "n",
+					"京东": "n"
+				},
+				"快应用": {
+					"华为": "n",
+					"联盟": "n"
+				}
+			}
+		}
+	}
+}

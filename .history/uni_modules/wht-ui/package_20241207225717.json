@@ -1,0 +1,96 @@
+{
+  "id": "wht-ui",
+  "displayName": "WHT UI 轻量优雅的移动端组件库",
+  "version": "1.0.0",
+  "description": "🚀 一个基于 uni-app 的轻量级移动端组件库，提供 15+ 常用组件，支持 H5、微信小程序、App。优雅的设计，丰富的功能，简单易用。",
+  "keywords": [
+    "wht-ui",
+    "ui组件库",
+    "uni-app",
+    "vue2",
+    "组件库",
+    "移动端",
+    "h5",
+    "微信小程序",
+    "app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/wht-ui"
+  },
+  "author": {
+    "name": "WHT Team",
+    "email": "your-email@example.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "HBuilderX": "^3.1.0"
+  },
+  "dcloudext": {
+    "type": "component-vue",
+    "sale": {
+      "regular": {
+        "price": "0.00"
+      },
+      "sourcecode": {
+        "price": "0.00"
+      }
+    },
+    "contact": {
+      "qq": ""
+    },
+    "declaration": {
+      "ads": "无",
+      "data": "插件不采集任何数据",
+      "permissions": "无"
+    },
+    "npmurl": ""
+  },
+  "uni_modules": {
+    "dependencies": ["uni-icons"],
+    "encrypt": [],
+    "platforms": {
+      "cloud": {
+        "tcb": "n",
+        "aliyun": "n"
+      },
+      "client": {
+        "Vue": {
+          "vue2": "y",
+          "vue3": "n"
+        },
+        "App": {
+          "app-vue": "y",
+          "app-nvue": "n"
+        },
+        "H5-mobile": {
+          "Safari": "y",
+          "Chrome": "y",
+          "Firefox": "y",
+          "Edge": "y"
+        },
+        "H5-pc": {
+          "Chrome": "y",
+          "Firefox": "y",
+          "Safari": "y",
+          "Edge": "y"
+        },
+        "小程序": {
+          "微信": "y",
+          "阿里": "n",
+          "百度": "n",
+          "字节跳动": "n",
+          "QQ": "n",
+          "钉钉": "n",
+          "快手": "n",
+          "飞书": "n",
+          "京东": "n"
+        },
+        "快应用": {
+          "华为": "n",
+          "联盟": "n"
+        }
+      }
+    }
+  }
+}
