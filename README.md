@@ -7,8 +7,14 @@ WHT-UI 是一个轻量级的 uni-app UI 插件，提供常用的UI组件，简�
 
 ### 预览
 
-![示例1](./images/1.png)
-![示例2](./images/2.png)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="text-align: center;">
+    <img src="./images/1.png" alt="wht-ui" width="240" style="">
+  </div>
+  <div style="text-align: center;">
+    <img src="./images/2.png" alt="wht-ui" width="240" style="">
+  </div>
+</div>
 
 ### 特性
 
