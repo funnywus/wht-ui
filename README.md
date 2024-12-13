@@ -91,14 +91,15 @@ export default {
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div style="text-align: center;">
-    <img src="./images/wx-qrcode.jpg" alt="微信赞赏码" width="200" style="margin: 10px;">
+    <img src="https://env-00jxh6w9ibri.normal.cloudstatic.cn/plugins/wx-qrcode.jpg" alt="微信赞赏码" width="200" style="margin: 10px;">
     <p>微信赞赏</p>
   </div>
   <div style="text-align: center;">
-    <img src="./images/zfb-qrcode.png" alt="支付宝赞赏码" width="200" style="margin: 10px;">
+    <img src="https://env-00jxh6w9ibri.normal.cloudstatic.cn/plugins/zfb-qrcode.png" alt="支付宝赞赏码" width="200" style="margin: 10px;">
     <p>支付宝赞赏</p>
   </div>
 </div>
+
 
 感谢您的支持！您的赞赏将用于：
 - 持续优化和维护项目
